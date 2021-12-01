@@ -1,0 +1,26 @@
+#app {
+    text-align: center;
+    margin-top: 120px;
+
+}
+
+#Von{
+    font-family: "Calibri Light";
+    font-size: 15px;
+    margin-bottom: -3px;
+    position: relative;
+    left: -119.5px;
+    color: #19AC63;
+
+}
+
+#Eingabefeld{
+    font-family: "Calibri Light";
+    height: 48px;
+    width: 327px;
+    font-size: 16px;
+    border: 1px solid #19AC63;
+    box-sizing: border-box;
+    border-radius: 4px;
+
+}
