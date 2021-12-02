@@ -1,1 +1,0 @@
-const inputFiled = document.getElementById("von")
